@@ -1,0 +1,9 @@
+Date		Start	Stop	Activity	Comments
+27/09/18	08:00	18:00	coding		implemented subset0 functionality
+28/09/18	12:00	14:30	debugging	found bugs in subset0 and ran tests
+29/09/18	09:00	23:00	coding		implemented subset1 functionality
+30/09/18	07:00	14:00	debugging	found bugs in subset1
+30/09/18	18:00	20:00	testing		ran tests in server and fixed some probs
+01/10/18	07:00	13:00	coding		code subset2
+01/10/18	14:00	15:00	debugging	ran tests and fixed some probs
+02/10/18	07:00	08:00	coding		write some tests for legit.pl
